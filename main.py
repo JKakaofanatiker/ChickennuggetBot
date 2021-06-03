@@ -22,4 +22,4 @@ async def on_message(message):
     if message.content.startswith('Kfc'):
         await message.channel.send('KFC ist lecker!')
 
-client.run('NDU1NDIzNDE1NjYzMTk4MjE4.Wx1gGw.9rrPznjHp0IlgJG_-9F-tuCrNw0')
+client.run('Your token here')
